@@ -1,4 +1,4 @@
-a = int(input("enter first number: "))
-b = int(input("enter second number: "))
-m = a * b
-print("m:", m)
+a = float(input("enter first number: "))
+b = float(input("enter second number: "))
+multi = a * b
+print("m:", multi)
